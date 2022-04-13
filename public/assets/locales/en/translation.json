@@ -1,0 +1,9 @@
+{
+    "title" : "Line Bot",
+    "language-en" : "English",
+    "language-th" : "Thai",
+    "navbar-home" : "HOME",
+    "navbar-about" : "ABOUT",
+    "navbar-service" : "SERVICE",
+    "navbar-contract" : "CONTRACT"
+}
